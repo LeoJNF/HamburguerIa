@@ -1,5 +1,5 @@
 # Hamburguera
-Projeto muuuuuuuuuito simples de um sistema para uma lanchonete.
+Projeto simples de um sistema para uma lanchonete.
 
 Feito como trabalho do meu 2º Semestre em ADS, foco em lógica de programação.
 
